@@ -139,3 +139,35 @@ public class Craps
         }
     }
 }
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This is a great little program, Charlie, and you did a good job using
+GitHub in the development (although you didn't have very many commits!).
+
+The `choice()` method didn't always recognize my input the way it 
+should have. Here's an example of one of my interactions with it:
+
+    You win!
+
+    Would you like to play again? [Y/n] n
+
+    ERROR: Unidentified input. Please try again.
+    n
+
+    ERROR: Unidentified input. Please try again.
+
+    n
+    Thank you for playing!
+
+I'm not sure what was going on with that, but otherwise, it was a solid
+implementation of the game play for Craps.
+
+Thanks!
+
+SCORE: 48/50
+
+*/
+
